@@ -32,3 +32,19 @@ I added the information about hole coordinates for the front panel in the folder
 
 ## Calibration
 Details about the calibration procedure are available on the orginal [o_C website](https://ornament-and-cri.me/).
+
+![OAC](https://user-images.githubusercontent.com/97026614/201452171-8a0f7efd-314b-4ca5-a5a5-de1b3846881c.jpeg)
+
+![OACFront](https://user-images.githubusercontent.com/97026614/201452194-d8dd5a0f-bbde-4ce9-9213-24ea275667e4.jpeg)
+
+![OACSide](https://user-images.githubusercontent.com/97026614/201452220-8448b655-5899-42fd-aaae-23e370311306.jpeg)
+
+![OAC_MainSoldered](https://user-images.githubusercontent.com/97026614/201452241-d339cfeb-dba2-46a2-8628-5870b5b4f6be.jpeg)
+
+<img width="490" alt="Screenshot 2022-11-12 at 11 20 36" src="https://user-images.githubusercontent.com/97026614/201452259-16ad0a46-998c-42b3-8577-d1cd2942a077.png">
+
+<img width="490" alt="Screenshot 2022-11-12 at 11 20 01" src="https://user-images.githubusercontent.com/97026614/201452265-f357d7c6-23db-4dcc-833a-c688afd9d45c.png">
+
+<img width="491" alt="Screenshot 2022-11-12 at 11 21 31" src="https://user-images.githubusercontent.com/97026614/201452272-373a62c8-1cd5-4ab9-ab89-6aa2c9cf3f79.png">
+
+<img width="491" alt="Screenshot 2022-11-12 at 11 21 48" src="https://user-images.githubusercontent.com/97026614/201452282-b2fd95cd-6473-4c22-babc-1578237a0cf0.png">
