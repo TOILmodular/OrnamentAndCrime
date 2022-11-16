@@ -33,6 +33,7 @@ This design here is using the +5V directly from the power supply, omitting the e
 | Inductor | 10uF | 1 | e.g. AL0307-100K |
 | Mono Jack | 3.5mm | 12 | |
 | Encoder | 24 steps w/ switch | 2 | e.g. 652-PEC11R-4220K-S24 |
+| Switch | momentary | 2 | see footnote (*) below |
 | OLED | 1.3” / 128x64 | 1 | SH1106 or SSD1306 |
 | Spacer | male-female / M3 / 7mm | 4 | for the OLED |
 | Screw | M3 | 4 | for the OLED spacer |
@@ -47,3 +48,5 @@ This design here is using the +5V directly from the power supply, omitting the e
 | Header | 2.54mm Female 1x2 | 1 | Connector Control Board |
 | Header | 2.54mm Female 2x6 | 1 | Power Connector |
 | Header | 2.54mm Female 1x14 | 2 | Teensy Connector |
+
+(*) For the original PCB version: PS-85N from maker Zhejiang Jianfu Electronics Co., Ltd. For the Thonk PCB version: Mouser part no. 642-5GTH935
