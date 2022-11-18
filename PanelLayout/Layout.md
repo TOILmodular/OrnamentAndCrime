@@ -7,6 +7,11 @@ Panel size: 52mm x 128.5mm
 
 The numbers in the table are refering to the numbers in the picture below.
 
+I added holes no. 1 and 2, although I did not use them in my own design (see photos on project main page).
+Those are for a more stable mechanical built, because the upper half has no fix to the front panel without them.
+The holes are meant to connect to the OLED display.
+I also showed that in my (YouTube video)[].
+
 
 | No. | X-coord. [mm] | Y-coord. [mm] | |
 | --- | --- | --- | --- |
