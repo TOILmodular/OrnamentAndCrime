@@ -37,7 +37,9 @@ Details about the calibration procedure are available on the orginal [o_C websit
 
 ![OACFront](https://user-images.githubusercontent.com/97026614/201452194-d8dd5a0f-bbde-4ce9-9213-24ea275667e4.jpeg)
 
-![OACSide](https://user-images.githubusercontent.com/97026614/201452220-8448b655-5899-42fd-aaae-23e370311306.jpeg)
+![IMG_6799](https://user-images.githubusercontent.com/97026614/202618088-b5275f5b-a1b9-460b-a0eb-39020c6728eb.jpeg)
+
+![IMG_6800](https://user-images.githubusercontent.com/97026614/202618147-adc45a3a-fcca-4fdc-8159-eaeaa2834cb0.jpeg)
 
 ![OAC_MainSoldered](https://user-images.githubusercontent.com/97026614/201452241-d339cfeb-dba2-46a2-8628-5870b5b4f6be.jpeg)
 
