@@ -5,7 +5,7 @@ The module is running on a Teensy 3.2 board.
 
 More details are available on the original website [ornament-and-cri.me](https://ornament-and-cri.me/).
 
-I also uploaded a [Youtube video]() about details and issues of the module built.
+I also uploaded a [Youtube video](https://youtu.be/8bC33xTxlGM) about details and issues of the module built.
 
 ## Module Built and PCBs
 The original design is mainly using SMD components, so there is only one PCB housing all components and front panel control parts.
