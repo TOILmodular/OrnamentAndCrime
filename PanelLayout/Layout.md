@@ -10,8 +10,8 @@ The numbers in the table are refering to the numbers in the picture below.
 
 | No. | X-coord. [mm] | Y-coord. [mm] | |
 | --- | --- | --- | --- |
-| 1 | 6 | 108 | |
-| 2 | 36 | 108 | |
+| 1 | 6 | 108 | Screw hole for display fix |
+| 2 | 36 | 108 | Screw hole for display fix |
 | 3a | 6 | 103 | Display corner |
 | 3b | 36 | 103 | Display corner |
 | 3c |6 | 87 | Display corner |
