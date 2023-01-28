@@ -7,7 +7,7 @@ More details are available on the original website [ornament-and-cri.me](https:/
 
 I also uploaded a [Youtube video](https://youtu.be/8bC33xTxlGM) about details and issues of the module built.
 
-## Module Built and PCBs
+## Module Build and PCBs
 The original design is mainly using SMD components, so there is only one PCB housing all components and front panel control parts.
 
 I replaced several components with through-hole versions to make the built a bit easier. Consequently, there are two PCBs required, a main board and a control borad, making the module deeper (42mm) than the original one (25mm). But still there are several SMD components in the design.
