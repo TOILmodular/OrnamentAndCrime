@@ -28,7 +28,7 @@ If you want to know about my DIY building process, take a look at those two YouT
 - [Eurorack Module Synth - Building an Electric Druid Wavetable Oscillator Module](https://youtu.be/ECpdo4HfqLg)
 
 ## Panel Layout
-I added the information about hole coordinates for the front panel in the folder PanelLayout, refering to the component layout in the Gerber files. The layout is the same for both versions.
+I added the information about hole coordinates for the front panel in the folder PanelLayout, referring to the component layout in the Gerber files. The layout is the same for both versions.
 
 ## Calibration
 Details about the calibration procedure are available on the orginal [o_C website](https://ornament-and-cri.me/).
