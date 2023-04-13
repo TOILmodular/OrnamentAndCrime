@@ -46,7 +46,7 @@ This design here is using the +5V directly from the power supply, omitting the e
 | Header | 2.54mm Female 1x10 | 2 | Connector Control Board |
 | Header | 2.54mm Female 1x3 | 1 | Connector Control Board |
 | Header | 2.54mm Female 1x2 | 1 | Connector Control Board |
-| Header | 2.54mm Female 2x6 | 1 | Power Connector |
+| Header | 2.54mm Male 2x6 | 1 | Power Connector |
 | Header | 2.54mm Female 1x14 | 2 | Teensy Connector |
 
 (*) For the original PCB version: PS-85N from maker Zhejiang Jianfu Electronics Co., Ltd. For the Thonk PCB version: Mouser part no. 642-5GTH935
